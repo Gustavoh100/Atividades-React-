@@ -5,10 +5,7 @@ function Home (){
     return (
 <>
     
-
-<h1>HOME</h1>
-
-    <Link to="/Atividades1"> <button> Atividades 1 </button></Link> 
+ <Link to="/atividade1"> <button> Atividades 1 </button></Link> 
 
 
 
