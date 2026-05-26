@@ -6,7 +6,10 @@ function Header() {
         <header>
             <h1>Exercicios React </h1>
        
-    <Link to="/Home"><button>HOME</button></Link>
+    <Link to="/"><button>HOME</button></Link>
+
+    
+ <Link to="/atividade1"> <button> Atividades 1 </button></Link> 
 
  </header>
     )
